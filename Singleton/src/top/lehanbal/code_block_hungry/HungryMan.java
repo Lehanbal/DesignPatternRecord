@@ -2,7 +2,6 @@ package top.lehanbal.code_block_hungry;
 
 public class HungryMan {
 
-
     public static void main(String[] args) {
         //验证创建出来的对象是否是单例
         Singleton type1 = Singleton.getInstance();
